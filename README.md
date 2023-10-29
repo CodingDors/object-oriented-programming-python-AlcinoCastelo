@@ -74,7 +74,7 @@ Once all the tests have completed:
 
 - **Clarifications**: Don’t hesitate to ask for clarifications regarding the functionality of the on Discord.
 - **Debugging**: If you’re grappling with bugs or issues, seek help! Debugging is key to learning.
-- **Answer**: We have a file called answer.py. Only look at it if you are stuck for some time (30 min+)
+- **Answer**: We have a file called the_answer.py. Only look at it if you are stuck for some time (30 min+)
 
 Should your functions exhibit unexpected behaviors or issues:
 - Place breakpoints in your code within VSCode.
